@@ -1,0 +1,9 @@
+Accession	JN644141	NCBI  JN644141	
+GI #		379046889	NCBI  379046889
+Organism	Human papillomavirus type 11	
+Seq. Length	7933
+Genus		alpha	
+Viral Type	11
+Strain		GUMC-AJ	
+Molecular Type	genomic DNA
+Sequence Name	Human papillomavirus type 11 isolate GUMC-AJ, complete genome.

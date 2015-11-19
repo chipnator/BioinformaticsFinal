@@ -1,0 +1,4 @@
+1 Sequences occurred 12672 times: ['GTAGTAACCAAAATC'] 
+ 
+1 Sequences occurred 2013 times: ['GCCAGACATTCCAGA'] 
+ 
